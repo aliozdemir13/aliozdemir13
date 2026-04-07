@@ -1,6 +1,8 @@
 # Ali Özdemir | Software Engineer & Solution Architect
 
-Software Engineer with a formal degree and 8+ years in high-scale backend systems development and design, including 4+ years as a **Solution Architect**. Currently transitioning my public footprint toward **Go (Golang)** and **AI/LLM-integrated systems**.
+Software Engineer with a formal degree and 8+ years in high-scale backend systems development and design, including 4+ years as a **Solution Architect**. Currently transitioning my public footprint toward **Go (Golang)** and **AI/LLM-integrated systems**. 
+
+*I build things I need or I am interested in!*
 
 ---
 
@@ -9,7 +11,7 @@ Software Engineer with a formal degree and 8+ years in high-scale backend system
 *   **Languages:** Go (Active Focus), Java, TypeScript, JavaScript, Node.js, Next.js, React Native.
 *   **Foundation:** Software Engineering degree with professional/academic background in C and C++.
 *   **Architecture:** 4+ years designing enterprise-scale solutions in the Salesforce ecosystem.
-*   **Current Direction:** Building high-performance CLI tools, backend systems in Go, and exploring LLM/AI integration **focused on local models**.
+*   **Current Direction:** Building high-performance CLI tools, backend systems in Go with LLM/AI integration, and exploring hardware-software bridges for IoT and hobby devices.
 
 ---
 
@@ -19,6 +21,11 @@ Software Engineer with a formal degree and 8+ years in high-scale backend system
 A polished CLI Task Manager built with Go. 
 *   **Focus:** Idiomatic Go structure, JSON persistence, and terminal UI design.
 *   **Status:** First public milestone in my transition to Golang.
+
+#### [Pico-Macro-Keyboard](https://github.com/aliozdemir13/Pico-Macro-Keyboard)
+A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi Pico.
+*   **Focus:** Real-time data streaming over Serial, USB-HID macro implementation, and embedded system constraints.
+*   **Key Tech:** Node.js, CircuitPython, I2C Protocol, Serial (UART) Communication.
 
 *Note: More projects focused on LLMs and AI agents are currently in private development and will be released soon.*
 
