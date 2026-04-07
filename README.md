@@ -37,8 +37,8 @@ I am currently migrating my personal portfolio from private Salesforce-centric r
 ---
 
 ### 📊 GitHub Activity
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliozdemir13&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozdemir13&layout=compact&theme=tokyonight&hide_border=true)
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliozdemir13&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozdemir13&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/aliozdemir13)
 
 ---
 
