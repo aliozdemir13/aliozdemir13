@@ -22,6 +22,11 @@ A polished CLI Task Manager built with Go.
 *   **Focus:** Idiomatic Go structure, JSON persistence, and terminal UI design.
 *   **Status:** First public milestone in my transition to Golang.
 
+#### [Lumina-CLI](https://github.com/aliozdemir13/Lumina-CLI)
+An enterprise-grade CLI Sports Intelligence Center for real-time telemetry.
+*   **Focus:** Data normalization, service-oriented design, and advanced CLI architecture using the Cobra framework.
+*   **Status:** A sophisticated API orchestrator that transforms complex, nested enterprise JSON into localized, structured terminal data.
+
 #### [Pico-Macro-Keyboard](https://github.com/aliozdemir13/Pico-Macro-Keyboard)
 A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi Pico.
 *   **Focus:** Real-time data streaming over Serial, USB-HID macro implementation, and embedded system constraints.
@@ -37,7 +42,7 @@ I am currently migrating my personal portfolio from private Salesforce-centric r
 ---
 
 ### 📊 GitHub Activity
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliozdemir13&show_icons=true&theme=tokyonight&hide_border=true)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliozdemir13&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliozdemir13&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/aliozdemir13)
 
 ---
