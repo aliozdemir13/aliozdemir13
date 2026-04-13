@@ -57,11 +57,11 @@ A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi
 
 ### 🤖 Skills
 
-[Gopher](https://github.com/aliozdemir13/Gopher-Do-Dev-Skill)
-LLM skill for developing idiomatic go projects with best practises
+[Gopher](https://github.com/aliozdemir13/Gopher-Go-Dev-Skill)
+- LLM skill for developing idiomatic go projects with best practises
 
 Enterprise Architect Skill (Contact for details)
-LLM skill for Enterprise Architecture and Systems Design.
+- LLM skill for Enterprise Architecture and Systems Design.
 
 ---
 
