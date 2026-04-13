@@ -56,9 +56,13 @@ A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi
 ---
 
 ### 🤖 Skills
+I don't use AI to generate code; I author the technical standards that align LLMs with professional, enterprise-grade engineering.
 
-[Gopher](https://github.com/aliozdemir13/Gopher-Go-Dev-Skill)
-- LLM skill for developing idiomatic go projects with best practises
+[Gopher Go Dev Skill](https://github.com/aliozdemir13/Gopher-Go-Dev-Skill)
+A high-fidelity instruction set for aligning LLMs with Idiomatic Go development.
+*   **The Philosophy**: It rejects "clever" abstractions in favor of Go's core values: simplicity, explicit error handling, and standard library purity.
+*   **Under the Hood**: Built on architectural experience to ensure AI-generated output adheres to senior-level patterns (e.g., proper goroutine lifecycles, consumer-defined interfaces, and zero-value usefulness).
+*   **The Goal**: Transforming LLMs from "code generators" into "Idiomatic Pair Programmers" that understand the nuance of the Go ecosystem.
 
 Enterprise Architect Skill (Contact for details)
 - LLM skill for Enterprise Architecture and Systems Design.
