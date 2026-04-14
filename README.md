@@ -46,6 +46,11 @@ A CLI Sports Intelligence Center for real-time telemetry.
 *   **Focus:** Data normalization, service-oriented design, and advanced CLI architecture using the Cobra framework.
 *   **Status:** A sophisticated API orchestrator that transforms complex, nested enterprise JSON into localized, structured terminal data.
 
+#### [Odin-CLI](https://github.com/aliozdemir13/OdinCLI)
+An independent, open-source CLI orchestrator for Atlassian Jira, built with Go.
+*   **Focus:** Bidirectional data translation, recursive tree-traversal parsing, and Terminal UI (TUI) design patterns.
+*   **Status:** **WIP** - Utilizes service-oriented design and data normalization to transform nested enterprise JSON (ADF) into structured, performant TUI components.
+
 #### [Pico-Macro-Keyboard](https://github.com/aliozdemir13/Pico-Macro-Keyboard)
 A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi Pico.
 *   **Focus:** Real-time data streaming over Serial, USB-HID macro implementation, and embedded system constraints.
@@ -65,7 +70,7 @@ A high-fidelity instruction set for aligning LLMs with Idiomatic Go development.
 *   **The Goal**: Transforming LLMs from "code generators" into "Idiomatic Pair Programmers" that understand the nuance of the Go ecosystem.
 
 Enterprise Architect Skill (Contact for details)
-- LLM skill for Enterprise Architecture and Systems Design.
+*  - LLM skill for Enterprise Architecture and Systems Design.
 
 ---
 
@@ -87,4 +92,3 @@ I am currently migrating my personal portfolio from private Salesforce-centric r
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-%C3%B6zdemir-1ab36687/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aliozdemir95)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.thealiozdemir.com/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white)](mailto:aliozdemir.95@icloud.com)
