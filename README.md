@@ -63,7 +63,7 @@ A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi
 ### 🤖 Skills
 I don't use AI to generate code; I author the technical standards that align LLMs with professional, enterprise-grade engineering.
 
-[Gopher Go Dev Skill](https://github.com/aliozdemir13/Gopher-Go-Dev-Skill)
+[Gofrik Go Dev Skill](https://github.com/aliozdemir13/Gofrik-Go-Dev-Skill)
 A high-fidelity instruction set for aligning LLMs with Idiomatic Go development.
 *   **The Philosophy**: It rejects "clever" abstractions in favor of Go's core values: simplicity, explicit error handling, and standard library purity.
 *   **Under the Hood**: Built on architectural experience to ensure AI-generated output adheres to senior-level patterns (e.g., proper goroutine lifecycles, consumer-defined interfaces, and zero-value usefulness).
