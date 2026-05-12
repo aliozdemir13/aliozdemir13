@@ -36,37 +36,37 @@ Authoring specialized LLM Skills for Enterprise Architects and high-performance 
 
 ### 🚀 Public Projects (Open Source)
 
-#### [Go-Do](https://github.com/aliozdemir13/Go-Do) 
-A polished CLI Task Manager built with Go. 
-*   **Focus:** Idiomatic Go structure, JSON persistence, and terminal UI design.
-*   **Status:** First public milestone in my transition to Golang.
-
-#### [Lumina-CLI](https://github.com/aliozdemir13/Lumina-CLI)
-A CLI Sports Intelligence Center for real-time telemetry.
-*   **Focus:** Data normalization, service-oriented design, and advanced CLI architecture using the Cobra framework.
-*   **Status:** A sophisticated API orchestrator that transforms complex, nested enterprise JSON into localized, structured terminal data.
+#### [Clockwork Piranha](https://github.com/aliozdemir13/clockwork-piranha)
+An independent, open-source Go toolkit for load-testing Salesforce Apex REST endpoints.
+*   **Focus:** Rate-limited goroutine orchestration, CSV-driven test-data pooling, OAuth-based Salesforce API authentication, and per-endpoint error reporting.
+*   **Status:** Implements controlled RPS execution across configurable Apex REST scenarios, using randomized shared data consumption and structured error aggregation to expose throughput limits in synchronous Salesforce transaction flows. **Active improvements are focused on the overall architecture, bounded worker pools, and richer latency metrics.**
 
 #### [Odin-CLI](https://github.com/aliozdemir13/OdinCLI)
 An independent, open-source CLI orchestrator for Atlassian Jira, built with Go.
 *   **Focus:** Bidirectional data translation, recursive tree-traversal parsing, and Terminal UI (TUI) design patterns.
 *   **Status:** Utilizes service-oriented design and data normalization to transform nested enterprise JSON (ADF) into structured, performant TUI components.
 
-#### [Clockwork Piranha](https://github.com/aliozdemir13/clockwork-piranha)
-An independent, open-source Go toolkit for load-testing Salesforce Apex REST endpoints.
-*   **Focus:** Rate-limited goroutine orchestration, CSV-driven test-data pooling, OAuth-based Salesforce API authentication, and per-endpoint error reporting.
-*   **Status:** Implements controlled RPS execution across configurable Apex REST scenarios, using randomized shared data consumption and structured error aggregation to expose throughput limits in synchronous Salesforce transaction flows. **Active improvements are focused on the overall architecture, bounded worker pools, and richer latency metrics.**
+#### [Lumina-CLI](https://github.com/aliozdemir13/Lumina-CLI)
+A CLI Sports Intelligence Center for real-time telemetry.
+*   **Focus:** Data normalization, service-oriented design, and advanced CLI architecture using the Cobra framework.
+*   **Status:** A sophisticated API orchestrator that transforms complex, nested enterprise JSON into localized, structured terminal data.
 
 #### [Pico-Macro-Keyboard](https://github.com/aliozdemir13/Pico-Macro-Keyboard)
 A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi Pico.
 *   **Focus:** Real-time data streaming over Serial, USB-HID macro implementation, and embedded system constraints.
 *   **Key Tech:** Node.js, CircuitPython, I2C Protocol, Serial (UART) Communication.
 
+#### [Go-Do](https://github.com/aliozdemir13/Go-Do) 
+A polished CLI Task Manager built with Go. 
+*   **Focus:** Idiomatic Go structure, JSON persistence, and terminal UI design.
+*   **Status:** First public milestone in my transition to Golang.
+
 *Note: More projects focused on LLMs and AI agents are currently in private development and will be released soon.*
 
 ---
 
 ### 🤖 Skills
-I don't use AI to generate code; I author the technical standards that align LLMs with professional, enterprise-grade engineering.
+I use AI as an engineering amplifier, with a focus on defining the standards, constraints, and review patterns that keep generated code idiomatic, maintainable, and production-oriented.
 
 [Gofrik Go Dev Skill](https://github.com/aliozdemir13/Gofrik-Go-Dev-Skill)
 A high-fidelity instruction set for aligning LLMs with Idiomatic Go development.
