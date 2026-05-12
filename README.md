@@ -49,7 +49,12 @@ A CLI Sports Intelligence Center for real-time telemetry.
 #### [Odin-CLI](https://github.com/aliozdemir13/OdinCLI)
 An independent, open-source CLI orchestrator for Atlassian Jira, built with Go.
 *   **Focus:** Bidirectional data translation, recursive tree-traversal parsing, and Terminal UI (TUI) design patterns.
-*   **Status:** **WIP** - Utilizes service-oriented design and data normalization to transform nested enterprise JSON (ADF) into structured, performant TUI components.
+*   **Status:** Utilizes service-oriented design and data normalization to transform nested enterprise JSON (ADF) into structured, performant TUI components.
+
+#### [Clockwork Piranha](https://github.com/aliozdemir13/clockwork-piranha)
+An independent, open-source Go toolkit for load-testing Salesforce Apex REST endpoints.
+*   **Focus:** Rate-limited goroutine orchestration, CSV-driven test-data pooling, OAuth-based Salesforce API authentication, and per-endpoint error reporting.
+*   **Status:** Implements controlled RPS execution across configurable Apex REST scenarios, using randomized shared data consumption and structured error aggregation to expose throughput limits in synchronous Salesforce transaction flows. **Active improvements are focused on the overall architecture, bounded worker pools, and richer latency metrics.**
 
 #### [Pico-Macro-Keyboard](https://github.com/aliozdemir13/Pico-Macro-Keyboard)
 A hardware-software bridge connecting Node.js to CircuitPython on a Raspberry Pi Pico.
